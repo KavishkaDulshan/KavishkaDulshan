@@ -1,11 +1,13 @@
-- 👋 Hi, I’m KavishkaDulshan
-- 👀 I’m interested in how things work...
-- 🌱 I’m currently a software engineering undergraduate at NSBM Green Univesity ...
-- 💞️ I’m looking to collaborate on interesting opne source projects...
-- 📫 kavishkadulshan2@gmail.com
-- ⚡  Code name - alcatraz
-- 🔗 LinkedIn - www.linkedin.com/in/kavishka-dulshan
-<!---
-KavishkaDulshan/KavishkaDulshan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi there, I'm Kavishka Dulshan 👋
+
+**Software Engineering Undergraduate @ NSBM Green University | Full-Stack Developer | IoT Enthusiast**
+
+Driven by an eagerness to understand exactly how things work, I specialize in the intersection of **web application development, computer security, and connected devices**. My strong grasp of software engineering fundamentals allows me to build clean, reliable systems across the entire stack.
+
+Whether I am contributing as a collaborative team player or stepping up to guide a team through a technical challenge, my goal is always to build impactful solutions. I firmly believe in learning in public and helping others along the way. 
+
+### 🌱 What you'll find here
+This space is my digital notebook—a place to share my projects, document my IoT builds, and write about the concepts that catch my attention. Explore the work, read the blog, and welcome to my corner of the internet!
+
+🔗 **Portfolio & Blog:** [kavishkadulshan.dev](https://kavishkadulshan.dev)  
+💼 **LinkedIn:** [Let's Connect](https://www.linkedin.com/in/kavishka-dulshan/)
