@@ -1,6 +1,6 @@
 # Hi there, I'm Kavishka Dulshan 👋
 
-**Software Engineering Undergraduate @ NSBM Green University | Full-Stack Developer | IoT Enthusiast**
+**Software Engineering Undergraduate | Full-Stack Developer | IoT Enthusiast**
 
 Driven by an eagerness to understand exactly how things work, I specialize in the intersection of **web application development, computer security, and connected devices**. My strong grasp of software engineering fundamentals allows me to build clean, reliable systems across the entire stack.
 
